@@ -21,6 +21,7 @@
 | `gr001_marathon-diary_db-postgresql` | PostgreSQL DB |
 | `gr001_marathon-diary_api` | API |
 | `mk001_marathon-diary_web-vue` | Web（Vue） |
+| `mk001_marathon-diary_web-next` | Web（Next） |
 
 ## ライセンス
 
